@@ -1,0 +1,7 @@
+info=SampleDictionaryData
+config1=aaaa
+config2=bbbb
+ssh_host=ssh.intranet.example.com
+api_host=deploy.api.example.com
+oauth_consumer_key=PzF7HnCW
+notify=DL-DeploymentTeam@corp.example.com
